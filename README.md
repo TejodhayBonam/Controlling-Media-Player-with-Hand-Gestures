@@ -12,7 +12,7 @@ The proposed system can control the media player from a distance using hand gest
 5. A webpage is deployed which contains source files and demo using streamlit.io sharing.
 
 
-![alt text](https://github.com/gayathri1462/Controlling-Media-Player-with-Hand-Gestures-using-Convolutional-Neural-Network/blob/main/images/cam%20page.png?raw=true)
+![alt text](https://github.com/TejodhayBonam/Controlling-Media-Player-with-Hand-Gestures/blob/master/images/cam%20page.png)
 
 #### Web App link: 
 
