@@ -12,7 +12,7 @@ The proposed system can control the media player from a distance using hand gest
 5. A webpage is deployed which contains source files and demo using streamlit.io sharing.
 
 
-![png](images/cam-page.png)
+![png](images/localapp.png)
 
 #### Web App link: 
 
