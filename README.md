@@ -1,7 +1,5 @@
 # Controlling Media Player with Hand Gestures using Convolutional Neural Network
 
-## Contact Me on Linkedin: https://www.linkedin.com/in/gayathri1462/
-
 ### A Web Application to control media player using Hand gestures (Using Streamlit)
 
 The primary aim is to use the most natural form, i.e., hand gestures to interact with the computer system. The goal of this project is to create a web application that uses your device's camera to give you touch-free and remote-free control over any media player application (with no special hardware). It would implement these gestures such that they are easy to perform, fast, efficient, and ensure an immediate response. It increases your productivity and makes your life easier and comfortable by letting you control your device from a distance.
